@@ -1,7 +1,10 @@
 <html>
 <head>
+body {
+background-color: rgb(50, 50, 50);
+}
 td {
-border: 2px solid rgb(0, 175, 0);
+border: 2px solid rgb(0, 0, 0);
 }
 table {
 margin-left: 10px;
@@ -14,9 +17,9 @@ border-collapse: collapse;
 </head>
 <body>
 <table>
-<tr><td><strong>Clock</strong></td><td><strong>Location</strong></td></tr>
-<tr><td>Elizabeth Tower Clock</td><td>London, England</td></tr>
-<tr><td>Prague Astronomical Clock</td><td>Prague, Czechia</td></tr>
-<tr><td>The Peacock Clock</td><td>Saint Petersburg, Russia</td></tr>
+<tr><td><strong>Main Title Infro</strong></td><td><strong>One Info</strong></td></tr>
+<tr><td>First Item</td><td>The Info About It</td></tr>
+<tr><td>Second Item</td><td>The Info About It</td></tr>
+<tr><td>Third Item</td><td>The Info About It</td></tr>
 </table>
 </body>
