@@ -1,0 +1,22 @@
+<html>
+<head>
+td {
+border: 2px solid rgb(0, 175, 0);
+}
+table {
+margin-left: 10px;
+color: rgb(0, 0, 0);
+font-family: Sans-serif;
+margin-left: 10px;
+border: 2px solid;
+border-collapse: collapse;
+}
+</head>
+<body>
+<table>
+<tr><td><strong>Clock</strong></td><td><strong>Location</strong></td></tr>
+<tr><td>Elizabeth Tower Clock</td><td>London, England</td></tr>
+<tr><td>Prague Astronomical Clock</td><td>Prague, Czechia</td></tr>
+<tr><td>The Peacock Clock</td><td>Saint Petersburg, Russia</td></tr>
+</table>
+</body>
